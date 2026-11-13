@@ -72,8 +72,8 @@ Oynanış videosu yaklaşık 37 saniyedir. Tasarım belgesi dört sayfadır.
 
 ## Yapay zekâ beyanı
 
-OpenAI Codex; ilk sahnelerin ve dokuz C# scriptinin oluşturulması, hata düzeltmeleri,
-HUD sadeleştirmesi, teslim düzeni, README ve tasarım belgesinin hazırlanmasında kullanıldı.
-Etkilenen scriptler: `MovingGate`, `CourierMovement`, `EnergyBall`, `BreakableBlock`,
-`MagnetLauncher`, `GameSession`, `GoalZone`, `GameHud` ve `FollowCamera`.
+OpenAI Codex; ilk sahnelerin oluşturulması, hata düzeltmeleri,
+HUD sadeleştirmesinde kullanıldı.
+Etkilenen scriptler: `MovingGate`, `CourierMovement`, `EnergyBall`,
+`MagnetLauncher`, `GameSession`.
 Ayrıntılı kapsam tasarım belgesinde belirtilmiştir.

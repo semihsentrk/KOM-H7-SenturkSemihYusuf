@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/A_TekTus.unity
+    guid: 6a176c8eaacd9474981af637c46637af
+  - enabled: 1
+    path: Assets/Scenes/B_HareketHissi.unity
+    guid: 6c2c5398ec8780d4f98d382545625d8a
+  - enabled: 1
+    path: Assets/Scenes/C_Carpisma.unity
+    guid: 1265a9a304dd38041aa04a3aec70ce7c
+  - enabled: 1
+    path: Assets/Scenes/D_Birlesik.unity
+    guid: 57a05adb93c4b1744a338e372b1628c3
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
